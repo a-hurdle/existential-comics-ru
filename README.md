@@ -27,3 +27,7 @@
 текстов отдельным слоем (т.е. сохраняя оригинал целиком, нижним
 слоем). Используем шрифт [TroubleSide
 Comic](https://www.fontspace.com/troubleside-font-f58132).
+
+Из исходников в этом репозитории автоматически генерируется веб-сайт,
+доступный по адресу
+[https://a-hurdle.github.io/existential-comics-ru/](https://a-hurdle.github.io/existential-comics-ru/).
